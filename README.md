@@ -192,4 +192,4 @@ Potential enhancements (not implemented):
 ## 👥 Authors
 
 **Rayyan Ali Ahmed**
-**Basil Rehan Siddiqui**
+, **Basil Rehan Siddiqui**
